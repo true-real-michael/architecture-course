@@ -1,6 +1,13 @@
 
 # Bookstore
 
+![bookstore/bookstore.svg](bookstore.svg)
+
+# Выполнили
+1. [Киселёв Михаил, 21.Б07-мм](https://github.com/true-real-michael)
+2. [Громова Арабелла, 21.Б10-мм](https://github.com/rongirl)
+3. [Житнухина Мария, 21.Б10-мм](https://github.com/zhitm)
+
 ## Модули и классы
 
 1. `Catalog`:
